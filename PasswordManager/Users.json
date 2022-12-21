@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "rootUser",
+    "Email": "rootMail",
+    "Password": "root",
+    "IsMod": true,
+    "IsAdmin": true
+  }
+]
